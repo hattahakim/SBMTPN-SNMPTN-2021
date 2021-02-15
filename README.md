@@ -1,4 +1,4 @@
-# Daftar Jurusan,Peminat,Kuota dan Persentase untuk SBMPTN 2021
+# Daftar Jurusan,Peminat,Kuota dan Persentase untuk SBMPTN&SNMPTN 2021
 
 ![Gambar dari unsplash](gambar.jpg "Gambar Hanya Pemanis")
 
