@@ -8,5 +8,3 @@
 * Cek file berformat **CSV** atau **Excel** untuk melihat tabel, Jika ingin men*download* klik *raw* lalu *save*
 * Jika ingin melihat *Source Code* bisa download file "Scraper.py" dan "Jurusan SNMTPN 2021.ipynb" dalam bentuk File Jupyter notebook
 * Semoga Bermanfaat dan dapat memudahkan kita dalam memilih jurusan yang sesuai dengan minat dan bakat kita<br>
-
-### Semoga Allah SWT Memberikan jalan yang terbaik bagi kita semua
